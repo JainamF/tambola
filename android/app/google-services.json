@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506955182062",
+    "firebase_url": "https://tambola-b290f.firebaseio.com",
+    "project_id": "tambola-b290f",
+    "storage_bucket": "tambola-b290f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506955182062:android:5319dba1d5635cc2caa8ff",
+        "android_client_info": {
+          "package_name": "com.example.tambola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506955182062-ejqud7ulc7113l57bbi7sgo0renmslt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWgKBSKGMLurUgVO3aj_8NNaPlwXTdB40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506955182062-ejqud7ulc7113l57bbi7sgo0renmslt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
